@@ -1,8 +1,6 @@
 ## argocd
 
-![squareops_avatar]
-
-[squareops_avatar]: https://squareops.com/wp-content/uploads/2022/12/squareops-logo.png
+<img src="Images/Squareops.png" width="590" height="200" />
 
 ### [SquareOps Technologies](https://squareops.com/) Your DevOps Partner for Accelerating cloud journey.
 <br>
