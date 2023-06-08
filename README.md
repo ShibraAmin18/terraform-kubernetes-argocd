@@ -1,6 +1,6 @@
 ## argocd
 
-<img src="Images/Squareops.png" width="590" height="200" />
+<img src="Images/Squareopsimage.png" width="590" height="200" />
 
 ### [SquareOps Technologies](https://squareops.com/) Your DevOps Partner for Accelerating cloud journey.
 <br>
